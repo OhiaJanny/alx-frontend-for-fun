@@ -1,2 +1,2 @@
-# alx-frontend-for-fun
-alx-frontend-for-fun
+# Fun-with-CSS
+Extra credit CSS repo for holbertonschool
